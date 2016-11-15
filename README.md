@@ -3,7 +3,7 @@ Karma-dojo
 
 Mainly, an adapter for testing [Dojo](http://dojotoolkit.org) code with [Karma](http://karma-runner.github.io/0.8/) platform.
 
-Here, some examples using the famous [Jasmine](http://pivotal.github.io/jasmine/) bdd framework.
+Here, some examples using the famous [Jasmine](https://jasmine.github.io/) bdd framework.
 
 
 
